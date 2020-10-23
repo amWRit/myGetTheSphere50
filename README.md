@@ -1,8 +1,8 @@
 # amWRit
 
-# Portal50
+# GetTheSphere 
 
-As part of learning through Harvard's CS50G "Introduction to Game Development" course, recreating the Portal game using Unity and Blender.
+As part of learning through Harvard's CS50G "Introduction to Game Development" course, creating a new Level based game "GetTheSphere"  using Unity and Blender.
 Updates were made on the original source code provided by CS50, based on assignment specifications.
 
 __Assignment 10: “Portal, The ProBuilder Update”__
